@@ -25,7 +25,7 @@ p{
   color:#000b85;
   font-size:20px;
   text-shadow:0.5px 0.5px #722d8b;
-  
+  font-family: 'DM Serif Text', serif;
 }
 
 h1{
@@ -34,6 +34,7 @@ h1{
     font-size:40px;
     margin-bottom:50px;
     padding:10px;
+    font-family: 'Neucha', cursive;
 }
 
 button{
@@ -46,6 +47,7 @@ button{
 h2{
    color:#000b85;
    background-color: hsla(257, 100%, 69%, 0.73);
+   font-family: 'Neucha', cursive;
 }
 
 .buttonDiv{
