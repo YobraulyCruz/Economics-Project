@@ -1,0 +1,108 @@
+body{
+  background-image:url("http://getwallpapers.com/wallpaper/full/3/a/5/1121897-cool-aesthetic-wallpapers-3840x2160.jpg");  
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+
+header{
+    display:flex;
+    justify-content:center;
+}
+
+img{
+    height:300px;
+    width:300px;
+     border:dashed 2px #3c00ff;
+}
+
+main{
+   display:flex;
+   justify-content:center;
+}
+
+p{
+  color:#000b85;
+  font-size:20px;
+  text-shadow:0.5px 0.5px #722d8b;
+  
+}
+
+h1{
+    color:#9b05fa;
+    border:dashed 2px #3c00ff;
+    font-size:40px;
+    margin-bottom:50px;
+    padding:10px;
+}
+
+button{
+    border-radius:10px;
+    background-color:#9b05fa;
+    text-shadow:0.5px 0.5px black;
+    padding:5px;
+}
+
+h2{
+   color:#000b85;
+   background-color: hsla(257, 100%, 69%, 0.73);
+}
+
+.buttonDiv{
+    display:flex;
+    justify-content:center;
+    margin:0 auto;
+}
+
+
+.slide4, .slide5, .slide6{
+    display:flex;
+    justify-content:space-around;
+    width:50%;
+    margin:0 auto;
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:50px;
+    background-color: hsla(257, 100%, 69%, 0.73);
+}
+
+.slide1, .slide2, .slide3, .slide7, .slide8{
+    display:flex;
+    justify-content:space-around;
+    width:50%;
+    margin:0 auto;
+    padding:50px;
+    background-color: hsla(257, 100%, 69%, 0.73);
+}
+
+#margin{
+     margin-top:50px;
+}
+
+
+.slide1h, .slide2h, .slide3h, .slide4h, .slide5h, .slide6h, .slide7h, .slide8h{
+    display:flex;
+    justify-content:center;
+    width:50%;
+    padding-top:20px;
+    padding-right:50px;
+    padding-left:50px;
+    margin:0 auto;
+}
+
+h3{
+    font-family: 'Cookie', cursive;
+    color:blue;
+    font-size:70px;
+}
+
+.column{
+    display:flex;
+    flex-direction:column;
+}
+
+.slideFin{
+    background-color: hsla(257, 100%, 69%, 0.73);
+    width:20%;
+    margin:0 auto;
+}
